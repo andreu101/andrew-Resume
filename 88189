@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<meta  charset="UTF-8">
+<head>
+ <title> ANDREW NYAN RESUME </title>
+</head>
+<body bgcolor ="#00FF00" >
+<body>
+
+	<h1>
+    	ANDREW  KWEKU NYAN
+	</h1>
+<p> Atico Junction, Nii Amasa Street, Accra-North</p>
+        <p>Telephone: 0265090752 / 0547943806</p>
+        <p> Email:<b>fraikuandreu77@gmail.com<b/></p>
+        
+        <hr>
+        <img src ="/Task2/images/andreu2.jpg"  width="300" height="350" alt="photo of andrew"/>
+        <hr>
+  <h2> Freelance Web Designer and Developer.</h2> 
+  
+        <nav>
+            <ul>
+               <a href = "#"> PROFILE</a> 
+               <a href = "#"> EDUCATION</a>
+               <a href = "#"> EXPERIENCE</a>
+               <a href = "#"> SKILLS </a>
+      </nav>
+
+<br> 
+<h2> PROFILE<h/>
+<p>A result oriented young man, independently self-motivated who enjoys new challenges. <br>A creative, proactive and strategic thinker with strong communication skills.<br>.
+
+
+<hr>
+<h2>EDUCATION</h2>
+<p> St.Andrews Senior High School – 
+Assin-Fosu , 2014.</p>
+<p> Agape Harvest IT College - 2017. </p>
+
+
+
+<hr>
+<h2> EXPERIENCE</h2>
+<table>
+    <tr> 
+            <td>  Sales Assistant </td>
+              <td> Kings Software Ventures </td>
+              <td> June 2015 to December 2016 </td> 
+     </tr>
+     <table
+<ul> 
+<li>Handled phone enquiries</li>
+<li> Maintained files and software documents</li>
+</ul>
+
+<table>
+   <tr>
+    <td> Housekeeper <t/d> 
+    <td> Kris View Luxury Hotel,Accra <td>
+     <td> January 2016 to February, 2017<td>
+     </tr>
+  <table>
+<ul>
+<li>Responded effectively to customer’s queries</li>
+<li> Attended training programs to enhance knowledge and skills <br> in handling customers complaints.</li>
+
+</ul>
+<hr>
+
+<h2> SKILLS </h2>
+<ol> 
+<li> FrontEnd </li>
+       <ul>
+          <li> Html </li>
+          <li> Css </li> 
+          </ul>
+    <li> UX UI </li>
+    <ul> Photoshop </ul>
+    <li> Development</li> 
+          <ul>
+            <li>Woocommerce</li>
+            <li>Responsive Layouts</li>
+            <li>Wordpress</li>
+       </ol>
+     <hr>
+     <h2>INTERESTS</h2>
+         <ul>
+         <li>Football</li>
+         <li>Listening to music</li>
+         <li> Reading</li>
+     
+
+ <footer>
+         <h3>CONTACT ME</h3>
+         <a href = "https://github.com/andreu101"target="-blank"> <img src ="images/github.png" width="50" height="50" /img></a> 
+         <a href= "https://m.facebook.com/home.php" target="-blank"> <img src ="images/facebook.png" width ="50" height="50"</a>
+         <a href= "https://m.youtube.com/feed/subscriptions" target="-blank"> <img src ="images/youtube.png" width="50" height="50"</a>
+         <a href= "https://mobile.twitter.com/home"target="-blank"> <img src ="images/twitter.png" width="50" height="50"</a>
+</body>
+</html>
+
+    
+    
+    
